@@ -1,0 +1,5 @@
+Exception_Track
+
+Exception tracking using getexceptional.com (for KohanaPHP 2.x)
+
+Uses https://github.com/ankane/exceptional-php
