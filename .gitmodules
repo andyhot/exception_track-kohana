@@ -1,0 +1,3 @@
+[submodule "libraries/exceptional-php"]
+	path = libraries/exceptional-php
+	url = git://github.com/ankane/exceptional-php.git
