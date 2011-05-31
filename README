@@ -2,4 +2,7 @@ Exception_Track
 
 Exception tracking using getexceptional.com (for KohanaPHP 2.x)
 
+Clone into yout modules directory (as exception_track) and then enable the module in your application/config/config.php
+Then copy config/exception_track.php and specify your api.key
+
 Uses https://github.com/ankane/exceptional-php
